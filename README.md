@@ -4,11 +4,10 @@
 
 There are Some Things About Me, That I Also Don't Know:
 
-- 🔭 I’m currently working on (React + Node).
-- 🌱 I’m currently learning TypeScript.
+- 🔭 I’m a Full Stack Developer (React + Node).
+- 🌱 I’m currently learning New Thinds Everyday.
 - 👯 I’m looking to collaborate AnyWhere.
-- 🤔 I’m looking for help with Nothing.
 - 💬 Ask me about Anything
 - 📫 How to reach me: @shivamrai83 Anywhere
-- ⚡ Fun fact: TypeScript is easier then JavaScript.
+- ⚡ Fun fact: Development is Easy.
 
