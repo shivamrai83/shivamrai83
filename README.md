@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-
 There are Some Things About Me, That I Also Don't Know:
 
 - 🔭 I’m a Full Stack Developer (React + Node).
